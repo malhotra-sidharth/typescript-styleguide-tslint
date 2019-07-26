@@ -1,0 +1,23 @@
+{
+  "name": "typescript-styleguide-tslint",
+  "version": "1.0.0",
+  "description": "A light-weight tslint.json for clean and strict Typescript code",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidharth0094/typescript-styleguide-tslint.git"
+  },
+  "keywords": [
+    "typescript",
+    "tslint",
+    "styleguide",
+    "tsc"
+  ],
+  "author": "Sidharth Malhotra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidharth0094/typescript-styleguide-tslint/issues"
+  },
+  "homepage": "https://github.com/sidharth0094/typescript-styleguide-tslint#readme"
+}
