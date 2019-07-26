@@ -1,0 +1,73 @@
+{
+  "rules": {
+    "curly": [true, "as-needed"],
+    "no-floating-promises": true,
+    "no-async-without-await": true,
+    "no-conditional-assignment": true,
+    "triple-equals": true,
+    "max-classes-per-file": [true, 1],
+    "no-require-imports": true,
+    "binary-expression-operand-order": true,
+    "class-name": true,
+    "comment-format": [true,
+      "check-lowercase",
+      {"ignore-words": [
+        "TODO",
+        "FIX",
+        "REF",
+        "NOTE"]}
+      ],
+    "file-name-casing": [true, "kebab-case"],
+    "no-boolean-literal-compare": true,
+    "no-parameter-properties": true,
+    "object-literal-key-quotes": false,
+    "prefer-method-signature": true,
+    "arrow-parens": true,
+    "import-spacing": true,
+    "indent": [true, "tabs", 2],
+    "max-line-length": [true, 80],
+    "semicolon": [true, "always"],
+    "whitespace": [true,
+      "check-branch",
+      "check-decl",
+      "check-operator",
+      "check-module",
+      "check-typecast",
+      "check-separator",
+      "check-rest-spread",
+      "check-type",
+      "check-typecast",
+      "check-type-operator",
+      "check-preblock"
+    ],
+    "align": [true, "parameters", "statements"],
+    "variable-name": {
+      "options": [
+        "ban-keywords",
+        "check-format"
+      ]
+    },
+    "trailing-comma": [
+      true,
+      {
+        "multiline": {
+          "objects": "always",
+          "arrays": "always",
+          "functions": "never",
+          "typeLiterals": "ignore"
+        },
+        "esSpecCompliant": true
+      }
+    ],
+    "increment-decrement": true,
+    "prefer-readonly": true,
+    "no-duplicate-imports": true,
+    "unnecessary-constructor": true,
+    "prefer-conditional-expression": [true, "check-else-if"],
+    "no-unused-variable": [true, "check-parameters"],
+    "no-shadowed-variable": true,
+    "no-magic-numbers": true,
+    "member-ordering": [true, {"order": "fields-first"}],
+    "member-access": [true, "no-public"]
+  }
+}
