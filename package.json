@@ -1,6 +1,6 @@
 {
   "name": "typescript-styleguide-tslint",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A light-weight tslint.json for clean and strict Typescript code",
   "scripts": {
   },

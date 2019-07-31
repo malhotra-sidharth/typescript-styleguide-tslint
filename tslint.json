@@ -24,7 +24,7 @@
     "prefer-method-signature": true,
     "arrow-parens": true,
     "import-spacing": true,
-    "indent": [true, "tabs", 2],
+    "indent": [true, "spaces", 2],
     "newline-per-chained-call": true,
     "max-line-length": [
       true,
