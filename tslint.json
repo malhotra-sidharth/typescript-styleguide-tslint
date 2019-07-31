@@ -74,6 +74,10 @@
     "no-shadowed-variable": true,
     "no-magic-numbers": true,
     "member-ordering": [true, {"order": "fields-first"}],
-    "member-access": [true, "no-public"]
+    "member-access": [true, "no-public"],
+    "one-line": [
+      true,
+      "check-open-brace"
+    ]
   }
 }
