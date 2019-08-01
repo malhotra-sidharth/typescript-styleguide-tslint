@@ -30,8 +30,7 @@
       true,
       {
         "limit": 80,
-        "ignore-pattern": "^import [^,]+ from |^export | implements",
-        "ignore-pattern": "^\\s*((//|\\*)\\s+)?(.{1,3} )?(https?)://[^ ]+$"
+        "ignore-pattern": "^import |^export | implements | (https?)://[^ ]+$"
       }
     ],
     "semicolon": [true, "always"],
