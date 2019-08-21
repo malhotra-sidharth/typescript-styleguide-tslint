@@ -1,6 +1,5 @@
 {
   "rules": {
-    "curly": [true, "as-needed"],
     "no-floating-promises": true,
     "no-async-without-await": true,
     "no-conditional-assignment": true,
