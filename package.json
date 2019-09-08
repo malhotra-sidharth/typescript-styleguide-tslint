@@ -6,7 +6,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sidharth0094/typescript-styleguide-tslint.git"
+    "url": "git+https://github.com/malhotra-sidharth/typescript-styleguide-tslint.git"
   },
   "keywords": [
     "typescript",
@@ -17,7 +17,7 @@
   "author": "Sidharth Malhotra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sidharth0094/typescript-styleguide-tslint/issues"
+    "url": "https://github.com/malhotra-sidharth/typescript-styleguide-tslint/issues"
   },
-  "homepage": "https://github.com/sidharth0094/typescript-styleguide-tslint#readme"
+  "homepage": "https://github.com/malhotra-sidharth/typescript-styleguide-tslint#readme"
 }
